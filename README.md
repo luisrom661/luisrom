@@ -2,7 +2,7 @@
 
 
 ## 🚀 Acerca de mi
-- Tengo 23 años y soy de Cali, Colombia.
+- Tengo 23 años y vivo en la ciudad de Popayán, Colombia.
 - Soy un desarrollador backend con experiencia en lenguajes de programación como TypeScript, JavaScript y Java, y he trabajado con frameworks como Node.js con Express, Nest y Spring Boot.
 - Mis habilidades incluyen la gestión de bases de datos como MongoDB y PostgreSQL, así como conocimientos básicos de React.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
