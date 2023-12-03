@@ -50,3 +50,6 @@
 
 [![Email](https://img.shields.io/badge/Email-%20?style=flat&logo=gmail&logoColor=white)](mailto:lromerovivas6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/luisrom66/)
+
+## Estadisticas
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrom661&theme=blue-green)]
