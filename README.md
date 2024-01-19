@@ -2,26 +2,27 @@
 
 
 ## 🚀 Acerca de mi
-- Tengo 23 años y vivo en la ciudad de Popayán, Colombia.
-- Soy un desarrollador backend con experiencia en lenguajes de programación como TypeScript y JavaScript, he trabajado usando Node.js con frameworks como Express y Nest.
-- Me desempeño también como ingeniero DevOps aplicando los principios de éste y usando herramientas tales como Docker, Kubernetes, Ansible, Terraform, Jenkins, Github Actions, Sonarqube, OWASP, Trivy, entre otros, además de los proveedores cloud como AWS y Azure.
-- Mis habilidades incluyen la gestión de bases de datos como MongoDB y PostgreSQL, así como conocimientos básicos de React y Next.js.
+- Tengo 23 años y vivo en la ciudad de Popayán, Cauca, Colombia.
+- Soy un desarrollador backend con experiencia en proyectos autodidactas en lenguajes de programación como TypeScript, JavaScript, Java, C# donde he trabajado usando Node.js con frameworks como Express.js, Nest, Spring, .NET y ASP.NET respectivamente.
+- Me desempeño también como ingeniero DevOps aplicando los principios de éste y usando herramientas tales como Docker, Kubernetes, Vagrant, Ansible, Terraform, Jenkins, Github Actions, Sonarqube, OWASP, Trivy, entre otros, además de los proveedores cloud como AWS y Azure.
+- Mis habilidades incluyen la gestión de bases de datos SQL y NoSQL usando PostgreSQL y MongoDB, así como conocimientos básicos de React.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
-- Me apasiona la construcción del lado del servidor, automatización de tareas, arquitecturas de software con el fin de asegurar la robustez de las API que desarrollo.
+- Me apasiona la construcción del lado del servidor, integración y despliegue continúo, automatización de tareas y arquitecturas de software con el fin de asegurar la robustez de las API que desarrollo.
 
 
 ## 🛠 Tecnologías
 ### Backend
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=orange)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=asp.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nest.js](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -42,17 +43,17 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-%231A1918.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ### Otros
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=flat&logo=mongoose&logoColor=white)
-![TypeORM](https://img.shields.io/badge/-TypeORM-336791?style=flat&logo=typeorm&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-336791?style=for-the-badge&logo=typeorm&logoColor=white)
 
 ## Contacto
 
-[![Email](https://img.shields.io/badge/Email-%20?style=flat&logo=gmail&logoColor=white)](mailto:lromerovivas6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/luisrom66/)
+[![Email](https://img.shields.io/badge/Email-%20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lromerovivas6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/luisrom66/)
 
 ## Estadisticas
 [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luisrom661&theme=blue-green)]
